@@ -1,0 +1,35 @@
+11/13/17 13:49
+
+Prob1 (3 points):
+Score += 3
+
+Prob2 (3 points):
+Score += 3
+
+Prob3 (4 points):
+Need to rescale image
+Score += 3
+
+Total score: 9/10 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/15/17 07:44
+
+Prob1 (3 points):
+Score += 3
+
+Prob2 (3 points):
+Score += 3
+
+Prob3 (4 points):
+Score += 4
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
