@@ -1,5 +1,4 @@
 # Applied Computational Projects
-=========================
 
 Lab assignments completed in the following applied mathematics courses:
 
